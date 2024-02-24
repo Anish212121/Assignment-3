@@ -1,0 +1,177 @@
+
+
+*{
+    margin:0 ;
+    padding: 0;
+    
+    
+
+}
+
+
+
+.header{
+    width:1%;
+    height:1%;
+
+}
+header{
+    padding-bottom: 3%;
+}
+.banner-image{
+    height: 100%;
+background-image: url('hi.png');
+background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.banner-text h1{
+    color: white;
+    
+    
+    
+   
+}
+header img {
+    height: 5vh;
+    position: absolute;
+    top: 3%;
+   left:-0vh;
+}
+
+.nav-area{
+    cursor: default;
+    margin: 0 -100%;
+    width: auto;
+    height: 44%;
+    display: flex;
+    justify-content: space-between;
+    -webkit-user-select: none;
+    user-select: none;
+    list-style: none;
+
+}
+.header{
+   min-height: 95%;
+    width:95%;
+    margin: auto;
+   padding: 35px 0;
+   display :flex;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.logo {
+    width: 30%;
+    float:right;
+    cursor: pointer;
+
+}
+
+.header ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position:relative;
+
+
+} 
+
+.header ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    position: absolute;
+
+    
+  }
+  
+  td, th {
+    border: 1px solid black;
+    border-style: dashed;
+    text-align: left;
+    padding: 8px;
+ 
+  }
+  
+  tr:nth-child(even) {
+    background-color: whitesmoke;
+    
+  }
+
+.table-paragraph{
+    left: 52%;
+    
+    position: absolute;
+    width: 40%;
+    
+
+}
+ 
+.column {
+padding-inline: 15%;
+position: relative;
+
+
+}
+.column img{
+    width: 45%;
+    height:80%;
+    position: relative;
+}
+
+.top-part{
+padding-bottom: 20%;
+}
+
+h1{
+text-align: center;
+font-size: 28px;
+font-weight: bold;
+color:black;
+margin-bottom: 30px;
+}
+
+.map-container {
+   width: 100%;
+   height: 100%;
+}
+
+iframe {
+    position: center;
+    top: 0;
+    left:0 ;
+    
+    width: 100%;
+    height: 200%;
+    border: none;
+ }
+
+ .images-endpart{
+    height: 100%;
+    width: 100%;
+ }
+
+ 
+ 
+
+
+
+ 
+ 
+
+
+
+
+
+  
+
